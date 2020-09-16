@@ -159,7 +159,7 @@ detectlanguage.userStatus().then(function(result) {
 
 ## Author
 
-Laurynas Butkus ([GitHub](https://github.com/laurynas)
+Laurynas Butkus ([GitHub](https://github.com/laurynas))
 
 ## License
 
